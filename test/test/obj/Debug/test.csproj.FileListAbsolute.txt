@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\test.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.pdb
+C:\Users\quan\Desktop\test\test\bin\Debug\test.exe.config
+C:\Users\quan\Desktop\test\test\bin\Debug\test.exe
+C:\Users\quan\Desktop\test\test\bin\Debug\test.pdb
+C:\Users\quan\Desktop\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\quan\Desktop\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\quan\Desktop\test\test\obj\Debug\test.exe
+C:\Users\quan\Desktop\test\test\obj\Debug\test.pdb
